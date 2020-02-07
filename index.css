@@ -1,0 +1,11 @@
+.example {
+    font-size: 40px;
+    padding: 20px;
+    background-color: pink;
+}
+
+#idExample {
+    font-size: 40px;
+    padding: 20px;
+    background-color: blue;
+}
